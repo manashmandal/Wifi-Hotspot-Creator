@@ -1,7 +1,7 @@
 # Wifi-Hotspot-Creator
 Java powered wifi hotspot creator for windows [haven't tried on other platforms]. This was my final project for CS50x [an online course of edX]. This app is written in Java and JavaFX.
 
-## Why it different than other available softwares?
+## Why it is different than other available softwares?
 * It has a Wifi Device Checker which can check your wifi device status and if the proper driver is installed in your pc
 * Since you have to configure your shared net once, you don't have to worry next time
 
